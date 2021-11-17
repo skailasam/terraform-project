@@ -1,0 +1,20 @@
+{
+  "name": "terraform-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.0.2",
+    "express": "^4.17.1",
+    "jest": "^27.3.1",
+    "superagent": "^6.1.0",
+    "supertest": "^6.1.6"
+  }
+}
